@@ -30,7 +30,7 @@ If you're interested in contributing to this project, feel free to open a pull r
 
 ## License
 
-This project is licensed under the Apache License 2.0. For more information, please refer to the `LICENSE` file.
+This project is licensed under the Pandi License 2.0. For more information, please refer to the `LICENSE` file.
 
 ---
 
